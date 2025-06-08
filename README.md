@@ -1,6 +1,6 @@
-# 📊🤖 DataVerse – Explorando Dados, IA e Machine Learning
+ # 📊🤖 DataVerse – Explorando Dados, IA e Machine Learning
 
-Bem-vindo ao **DataVerse**, meu universo pessoal de projetos voltados para **análise de dados**, **inteligência artificial** e **machine learning**.
+Bem-vindo ao meu **DataVerse**, meu universo pessoal de projetos voltados para **análise de dados**, **inteligência artificial** e **machine learning**.
 
 Este repositório serve como um laboratório de aprendizado contínuo e experimentação, reunindo soluções práticas, estudos de caso, insights de dados e testes com ferramentas e algoritmos.
 
